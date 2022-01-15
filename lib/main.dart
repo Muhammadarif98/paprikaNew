@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           children: [
             Center(
-              child:GeneratedFrame118Widget(countShop: 0),
+              child:GeneratedFrame118Widget(countShop: 15),
             )
           ],
         )
